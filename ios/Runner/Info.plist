@@ -49,5 +49,12 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>O usuario pode acessar a biblioteca de fotos para escolher uma foto para seu perfil</string>
+
+	<key>NSCameraUsageDescription</key>
+	<string>O usuario pode acessar a camera para adicionar uma foto para registrar e tambem pode acessar a camera para trocar sua foto</string>
+	<key>aps-environment</key>
+	<string>development</string>
 </dict>
 </plist>
